@@ -1,2 +1,2 @@
 # deepECG
-some prototypes on ECG (Arrhythmia Dataset)
+some prototypes on ECG (Mit_hib Dataset)
